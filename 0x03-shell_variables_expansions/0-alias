@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'alias ls="rm *"' > create_alias.sh
+0. alias ls="rm *"
